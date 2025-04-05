@@ -21,6 +21,7 @@ You can view the demo video of the Hand Gesture Classification project below:
 
 [![Watch the video](https://yourdomain.com/thumbnail.jpg)]((https://drive.google.com/file/d/1Uz9zmP4snwxoXQ0CjwM99fZ-edzA-3D5/view?usp=sharing])
 
+
 ## Get started :
 1. Clone the Repository + also you need an input video (containing the Gestures you need to recognize)
 2. Install the Required Dependencies
