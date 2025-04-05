@@ -19,7 +19,7 @@ The goal of this project is to classify hand gesture images accurately and effic
 
 You can view the demo video of the Hand Gesture Classification project below:
 
-[![Watch the video](https://yourdomain.com/thumbnail.jpg)]([https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing](https://drive.google.com/file/d/1Uz9zmP4snwxoXQ0CjwM99fZ-edzA-3D5/view?usp=sharing))
+[![Watch the video](https://yourdomain.com/thumbnail.jpg)]([[https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing](https://drive.google.com/file/d/1Uz9zmP4snwxoXQ0CjwM99fZ-edzA-3D5/view?usp=sharing](https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=drive_link))
 
 ## Get started :
 1. Clone the Repository + also you need an input video (containing the Gestures you need to recognize)
